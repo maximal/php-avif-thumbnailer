@@ -1,0 +1,10 @@
+.idea
+
+assets
+
+vendor
+composer.lock
+
+animated.gif
+horizontal.png
+vertical.png
